@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pinakpro
 - 👀 I’m interested in App Development,Programming
 - 🌱 I’m currently learning Java,Python
-- 💞️ I’m looking to collaborate on App Development,Programming
+- 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me G-mail-pinakadeshmukh@gmail.com
 - Instagram-pinakd36
 - Facebook-Pinak Deshmukh
