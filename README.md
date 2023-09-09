@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinakpro
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Java,Python,AWS
+- 🌱 I’m currently learning Java, Python, AWS
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me G-mail-pinakadeshmukh@gmail.com
 - LinkedIn-Pinak Deshmukh
