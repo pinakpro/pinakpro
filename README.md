@@ -2,7 +2,9 @@
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Java, Python, AWS
 - 💞️ I’m looking to collaborate on Programming
-- 📫 How to reach me G-mail-pinakadeshmukh@gmail.com
+- 📫 How to reach me
+- G-mail-pinakadeshmukh@gmail.com
+- Github-pinakpro
 - LinkedIn-Pinak Deshmukh
 - Instagram-pinakd36
 - Facebook-Pinak Deshmukh
